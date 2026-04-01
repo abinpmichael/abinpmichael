@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Abin
 
-<!--
-**abinpmichael/abinpmichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | PHP | WordPress | React  
+📍 Based in Canada  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently working on WordPress & PHP applications  
+- 🌱 Learning advanced JavaScript & system design  
+- 👨‍💻 Experienced in building CMS, APIs, and dynamic websites  
+- 🎯 Goal: Become a top full-stack developer in Canada  
+
+---
+
+## 🛠️ Tech Stack
+- 💻 PHP, JavaScript, TypeScript  
+- 🌐 WordPress, Elementor, CodeIgniter  
+- ⚛️ React  
+- 🛢️ MySQL  
+- 🔧 Git, Docker  
+
+---
+
+## 📂 Projects
+
+### 🔹 Custom PHP CMS
+- Built a CMS with Blog, Gallery, Testimonials
+- Used PDO and MVC structure  
+
+### 🔹 WordPress Dynamic Website
+- Elementor + Custom Post Types  
+- SEO optimized  
+
+### 🔹 Coupon Management System
+- Vehicle service coupon tracking system  
+- Admin + Customer workflow  
+
+---
+
+## 📫 Contact Me
+- Email: your-email@gmail.com  
+- LinkedIn: (add later)
