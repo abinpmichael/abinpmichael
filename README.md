@@ -195,7 +195,7 @@ class AbinPMichael extends Developer
 
 *Remote-friendly · Willing to relocate · Available immediately*
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abinpmichael)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abinp.michael@gmail.com)
 [![Email](https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abinp.michael@gmail.com)
 
 </div>
